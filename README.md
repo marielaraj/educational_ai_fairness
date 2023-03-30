@@ -6,7 +6,7 @@
 
 Thank you for visiting the pen educational hands-on tutorial for evaluating fairness in AI classification models  project repository.
 
-Our vision: We work for the generation of open workshop materials that focus on understanding how to study the bias of machine learning models so that educators and Artificial Intelligence (AI) practitioners can use and adapt the concrete and diverse examples proposed in the materials for their AI courses.
+Our **vision**: We work for the generation of open workshop materials that focus on understanding how to study the bias of machine learning models so that educators and Artificial Intelligence (AI) practitioners can use and adapt the concrete and diverse examples proposed in the materials for their AI courses.
 
 ## What are we doing?
 
