@@ -4,3 +4,9 @@
 
 
 ## Types of contribution
+
+### Pull Request (PR)
+
+### Issues
+
+### Discussions
