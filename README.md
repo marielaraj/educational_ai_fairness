@@ -27,6 +27,8 @@ One way to contribute to the development of fairer models is to **generate educa
 
 ## Get involved
 
+If you are interested in getting involved in the project, you can check  out our [contributors' guidelines](CONTRIBUTING.md).
+
 ## Timeline?
 
 
