@@ -27,6 +27,7 @@ One way to contribute to the development of fairer models is to **generate educa
 
 ## Get involved
 
+## Timline?
 
 
 ## Contact us
