@@ -1,12 +1,49 @@
-# Open educational hands-on tutorial for evaluating fairness in AI classification models 
+# Tutorial educativo abierto para la evaluación de equidad en los modelos de clasificación de Inteligencia Artificial (IA)
+
+## ¡Bienvenida!¡Bienvenide!¡Bienvenido!
+
+Gracias por visitar el repositorio del proyecto "Tutorial  educativo para la evaluación de equidad en los modelos de clasificación de IA".
+
+Nuestra **visión**: Trabajamos para la generación de materiales de talleres abiertos que se centren en comprender cómo estudiar el sesgo de los modelos de aprendizaje automático para que los educadores y los profesionales de IA puedan usar y adaptar los ejemplos concretos y diversos propuestos en los materiales para sus cursos de IA.
+
+
+## ¿Que estamos haciendo?
+
+### El problema
+
+Si bien los sistemas de IA brindan múltiples beneficios, es necesaria la conciencia sobre los sesgos y las consecuencias que pueden generar o propagar en la sociedad. En el contexto del aprendizaje supervisado combinado con datos de personas, las evaluaciones de modelos generalmente se enfocan en comparar etiquetas pronosticadas y anotadas sin tener en cuenta las **diferencias que los modelos producen en (generalmente) grupos históricamente desfavorecidos de la sociedad**. Además, **más de 20 definiciones de equidad** se proponen en la bibliografía, y las combinaciones satisfactorias de ellas no son necesariamente posibles o no tienen sentido matemático. Por lo tanto, aunque los investigadores y los implementadores pueden considerar la *equidad*, **analizar la definición adecuada que se utilizará en un problema específico no es trivial**.
+
+### La solución
+
+Una forma de contribuir al desarrollo de modelos más justos es **generar materiales educativos de código abierto** que expliquen y difundan la importancia de evaluar la equidad en los modelos y cuáles de las métricas son convenientes para cada objetivo y entender qué limitaciones tienen. tienen antes de usarlos en la sociedad.
+
+
+## ¿Quienes somos?
+
+
+## ¿Qué necesitamos?
+
+
+## Involucrarse
+
+Si está interesado en participar en el proyecto, puede consultar nuestras [directrices para colaboradores](CONTRIBUTING.md).
+
+## Cronología?
+
+
+## Contáctenos
 
 
 
-## Welcome!
+## Saber más
 
-Thank you for visiting the pen educational hands-on tutorial for evaluating fairness in AI classification models  project repository.
 
-Our **vision**: We work for the generation of open workshop materials that focus on understanding how to study the bias of machine learning models so that educators and Artificial Intelligence (AI) practitioners can use and adapt the concrete and diverse examples proposed in the materials for their AI courses.
+
+## Gracias
+
+
+## Glosario
+
 
 ## What are we doing?
 
