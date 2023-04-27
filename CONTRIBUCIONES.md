@@ -7,12 +7,12 @@ Por favor lee nuestro [código de conducta](https://github.com/marielaraj/educat
 En esta guía encontrarás una descripción acerca de cómo abrir un issue, cómo crear un Pull Request (PR) y cómo se realiza el merge de tu PR.
 
 
-# Issues
-## Creación de un nuevo Issue
+## Issues
+### Creación de un nuevo Issue
 
 Si encuentras un error en los materiales o en el github del proyecto primero revisa si ese problema ya fue reportado y existe un Issue al respecto. Si no existe un Issue relacionado, puedes abrir uno nuevo utilizando el formulario correspondiente.
 
-## Resolución de un Issue
+### Resolución de un Issue
 Busque entre los issues existentes para encontrar uno que le interese.  Puede acotar la búsqueda utilizando etiquetas como filtros.  Podes consultar Consulte  la sección Etiquetas para obtener más información.  Como regla general, no asignamos problemas a nadie.  Si encuentra un problema en el que trabajar, puede abrir un PR con una solución.
 
 ## Modificaciones
@@ -42,6 +42,6 @@ Su PR será evaluado por las personas que administran el sitio web de MetaDocenc
 
 Pendientes:
 1. Guía para Personas que nunca contribuyeron a un repositorio
-2- Los PR vamos a armar algo para que github verifique automáticamente? A veces cuando hago un PR en algunos repositorios chequea que se cumplan algunas cosas. Para mí por el momento no creo que sea importante porque no es código, tendremos contribuciones pero no creo que sean muchas.
+2. Los PR vamos a armar algo para que github verifique automáticamente? A veces cuando hago un PR en algunos repositorios chequea que se cumplan algunas cosas. Para mí por el momento no creo que sea importante porque no es código, tendremos contribuciones pero no creo que sean muchas.
 3. El merge a cargo de quien/quienes estará? Esto lo dejo para ir pensándolo.
 
