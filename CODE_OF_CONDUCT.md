@@ -1,4 +1,4 @@
-## Código de conducta
+# Código de conducta
 
 El objetivo de este código de conducta es que esta comunidad se comprometa a fomentar un ambiente abierto, seguro y amigable y garantizar la participación de todas las personas en las actividades y espacios virtuales independientemente de su edad, género, orientación sexual, discapacidad, apariencia física, nacionalidad, raza, etnia, religión (o la falta de ella), ideología u opciones tecnológicas.
 
