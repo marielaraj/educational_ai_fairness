@@ -38,3 +38,10 @@ Cree una rama (branch) de trabajo y comience con a realizar sus cambios.
 Su PR será evaluado por las personas que administran el sitio web de MetaDocencia y, luego, realizarán el merge. Es decir, integrarán sus modificaciones a la página web.
 
 **¡Muchas gracias por sus contribuciones!**
+
+
+Pendientes:
+1. Guía para Personas que nunca contribuyeron a un repositorio
+2- Los PR vamos a armar algo para que github verifique automáticamente? A veces cuando hago un PR en algunos repositorios chequea que se cumplan algunas cosas. Para mí por el momento no creo que sea importante porque no es código, tendremos contribuciones pero no creo que sean muchas.
+3. El merge a cargo de quien/quienes estará? Esto lo dejo para ir pensándolo.
+
