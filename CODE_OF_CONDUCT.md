@@ -32,8 +32,8 @@ Los casos de comportamiento inaceptable pueden ser informados enviando un correo
 
 Las personas que forman parte del equipo de Código de Conducta se comprometen a recusarse en caso de haber conflicto de intereses asociados al reporte de un incidente.
 
-Integrantes del equipo de Código de Conducta
+### Integrantes del equipo de Código de Conducta
 Mariela Rajngewerc
 
-Atribución
+## Atribución
 Este Código de Conducta es una adaptación del Contributor Covenant, versión 2.0, disponible en https://www.contributor-covenant.org/es/version/2/0/code_of_conduct.html, del código de conducta desarrollado para useR!2021 y del código de conductura desarrollado por MetaDocencia.
