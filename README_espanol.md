@@ -27,7 +27,7 @@ Una forma de contribuir al desarrollo de modelos más justos es **generar materi
 
 ## Involucrarse
 
-Si está interesado en participar en el proyecto, puede consultar nuestras [directrices para colaboradores](CONTRIBUTING.md).
+Si está interesado en participar en el proyecto, puede consultar nuestras [directrices para colaboradores](CONTRIBUCIONES.md).
 
 
 ## Gracias
