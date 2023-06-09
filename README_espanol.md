@@ -29,18 +29,5 @@ Una forma de contribuir al desarrollo de modelos más justos es **generar materi
 
 Si está interesado en participar en el proyecto, puede consultar nuestras [directrices para colaboradores](CONTRIBUTING.md).
 
-## Cronología?
-
-
-## Contáctenos
-
-
-
-## Saber más
-
-
 
 ## Gracias
-
-
-## Glosario
