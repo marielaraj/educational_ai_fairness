@@ -38,6 +38,7 @@ If you are interested in getting involved in the project, you can check  out our
 
 ## Find out more
 
+Mail:
 
 
 ## Thank you
