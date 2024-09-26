@@ -1,4 +1,4 @@
-# Open educational hands-on tutorial for evaluating fairness in AI classification models 
+# Open educational hands-on tutorial for evaluating fairness in AI classification models - 
 
 
 
